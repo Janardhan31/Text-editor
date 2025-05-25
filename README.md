@@ -1,21 +1,20 @@
-# 📝 Python Text Editor
+# 📝 Simple Tkinter Text Editor
 
-A simple yet functional **Text Editor** built using **Python**. This project provides basic text editing capabilities such as creating, opening, editing, and saving text files. It features a user-friendly interface built with Tkinter, making it a lightweight and easy-to-use desktop application.
+This is a text editor built using Python's Tkinter library. It allows users to create, open, edit, and save `.txt` files with a simple GUI interface.
 
-## ✨ Features
+## 🚀 Features
 
-- Open and save `.txt` files  
-- Create new files  
-- Edit and format text  
-- Basic GUI built with Tkinter
+- Create a new text file  
+- Open existing `.txt` files  
+- Save your text files  
+- Simple and clean user interface  
+- Built with Tkinter (no external dependencies)
 
-## 🛠 Technologies Used
+## 💻 How to Run
 
-- Python 3  
-- Tkinter (standard GUI library in Python)
+1. Make sure you have Python installed.
+2. Download or clone this repository.
+3. Run the script using:
 
-## 🚀 Getting Started
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/python-text-editor.git
+```bash
+python text_editor.py
